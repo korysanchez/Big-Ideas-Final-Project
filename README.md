@@ -7,5 +7,5 @@ Griffin McCool, Mason McGinnis, Kory Sanchez
 </br> 
 gmm92@pitt.edu, mjm419@pitt.edu, kts51@pitt.edu
 </br>
-Group 32
+Group 38
 ### Data sets
