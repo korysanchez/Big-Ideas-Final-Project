@@ -10,7 +10,7 @@ gmm92@pitt.edu, mjm419@pitt.edu, kts51@pitt.edu
 The Plants (Group 38)
 ### Data sets
 </br>
-#### Data Set 1: Particulate Matter
+### Data Set 1: Particulate Matter
 </br>
 Description: X
 </br>
