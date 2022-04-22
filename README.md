@@ -10,7 +10,7 @@ gmm92@pitt.edu, mjm419@pitt.edu, kts51@pitt.edu
 The Plants (Group 38)
 ### Data sets
 #### Data Set 1: Particulate Matter (Mason McGinnis)
-Description: X
+Description: This dataset shows the average PM2.5 concentration in the air over Allegheny County.
 </br>
 https://data.wprdc.org/dataset/particulate-matter-2-5/resource/d281efe0-62d9-4c2b-b41f-bb99fcbec705
 #### Data Set 2: Land Cover Areas (Griffin McCool)
